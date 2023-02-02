@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>posterler-muzik-arka-plan.jpg</file>
+    <file>cisenti-doga-yagmur-dusurmek-duvar-kagidi.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>download (1).png</file>
+    <file>download.png</file>
+  </qresource>
+</RCC>
